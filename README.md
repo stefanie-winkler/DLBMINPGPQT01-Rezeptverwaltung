@@ -1,6 +1,6 @@
 # DLBMINPGPQT01-Rezeptverwaltung
 
-Desktop-Anwendung zur digitalen Verwealtung von Koch- und Backrezepten, entwickelt mit Qt und C++ im Rahmen des Kurses "GUI-Programmierung mit Qt" (DLBMINPGPQT01)
+Desktop-Anwendung zur digitalen Verwealtung von Koch- und Backrezepten, entwickelt mit Qt und C++ im Rahmen des Kurses "GUI-Programmierung mit Qt" (DLBMINPGPQT01).
 
 
 ## Funktionen
