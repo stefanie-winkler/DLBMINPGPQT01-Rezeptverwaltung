@@ -8,6 +8,7 @@ Desktop-Anwendung zur digitalen Verwealtung von Koch- und Backrezepten, entwicke
 - Filtern nach Titel, Kategorie oder Zutaten
 - Automatisches Speichern und Laden über eine JSON-Datei
 
+
 ## Projekt öffnen
 1. Qt Creator öffnen
 2. Datei 'Rezeptverwaltung.pro' öffnen
